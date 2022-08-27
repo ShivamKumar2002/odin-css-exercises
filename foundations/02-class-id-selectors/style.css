@@ -1,0 +1,17 @@
+.odd-item {
+    background-color: rgb(255, 140, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+#second-item {
+    color: hsl(220, 100%, 70%);
+    font-size: 36px;
+}
+
+#fourth-item {
+    background-color: #50ff80;
+}
